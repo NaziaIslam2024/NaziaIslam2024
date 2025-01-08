@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/4MrWRqs/Blue-and-Purple-Modern-Futuristic-Tech-Event-Banner.jpg"  />
+  <img height="300" src="https://i.ibb.co.com/4MrWRqs/Blue-and-Purple-Modern-Futuristic-Tech-Event-Banner.jpg"  />
 </div>
 
 ###

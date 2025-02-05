@@ -12,6 +12,10 @@
 
 ###
 
+<h3 align="left">📊 GitHub Stats</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/nazia-islam-0740aa346" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"      />
@@ -22,12 +26,6 @@
 </div>
 
 ###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=NaziaIslam2024&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NaziaIslam2024&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaziaIslam2024&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NaziaIslam2024&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Welcome to my Github profile. I am from Dhaka, Bangladesh with expertise in  Frontend Web Development. I focus on in creating dynamic, responsive, and user-friendly web solutions that bring ideas to life.<br>I specialize in crafting sleek designs and building robust functionality, tackling challenges head-on to deliver outstanding user experiences. If you need a developer to bring your digital vision to life, I’m ready to make it happen. Let’s collaborate and create something extraordinary!<br><br>- 📚 Currently exploring ... Next.js<br>- 🎯 Goals: Become Mern Stack Developer.<br>- 💻 5+ Projects Completed<br>- ⚡ In am a Passionate Learner.<br>- 🎓 I have completed my graduation in Information Technology from IIT, Jahangirnagar University.<br>🎲 Fun Fact: Love to learn with my Daughters.</p>
+<p align="left">Welcome to my Github profile. I am from Dhaka, Bangladesh with expertise in  Frontend Web Development. I focus on in creating dynamic, responsive, and user-friendly web solutions that bring ideas to life.<br>I specialize in crafting sleek designs and building robust functionality, tackling challenges head-on to deliver outstanding user experiences. If you need a developer to bring your digital vision to life, I’m ready to make it happen. Let’s collaborate and create something extraordinary!<br><br>- 📚 Currently doing a team project.<br>- 🎯 Goals: Become Mern Stack Developer.<br>- 💻 5+ Projects Completed<br>- ⚡ In am a Passionate Learner.<br>- 🎓 I have completed my graduation in Information Technology from IIT, Jahangirnagar University.<br>🎲 Fun Fact: Love to learn with my Daughters.</p>
 
 ###
 
